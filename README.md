@@ -20,6 +20,7 @@ This is a simple console-based Number Guessing Game developed using Java and Obj
 ## 📚 Documentation
 
 This project includes complete **Javadoc documentation** generated using the `javadoc` command.
+
 Documentation Website  : https://aryan1i.github.io/java-number-guessing-game/
 
 ## ▶️ How to Run
